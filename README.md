@@ -6,10 +6,10 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v3.2.0 | [`v3.2.0`](https://github.com/chainguard-actions/seemethere-upload-artifact-s3/tree/v3.2.0) | [`9d298f4`](https://github.com/seemethere/upload-artifact-s3/commit/9d298f4a34a19beb76876fe16bcd4aa6389bd42c) |
-| v5 | [`v5`](https://github.com/chainguard-actions/seemethere-upload-artifact-s3/tree/v5) | [`baba72d`](https://github.com/seemethere/upload-artifact-s3/commit/baba72d0712b404f646cebe0730933554ebce96a) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v3.2.0 | [`v3.2.0`](https://github.com/chainguard-actions/seemethere-upload-artifact-s3/tree/v3.2.0) | [`9d298f4`](https://github.com/seemethere/upload-artifact-s3/commit/9d298f4a34a19beb76876fe16bcd4aa6389bd42c) | [`HARDENING.md`](https://github.com/chainguard-actions/seemethere-upload-artifact-s3/blob/v3.2.0/HARDENING.md) |
+| v5 | [`v5`](https://github.com/chainguard-actions/seemethere-upload-artifact-s3/tree/v5) | [`baba72d`](https://github.com/seemethere/upload-artifact-s3/commit/baba72d0712b404f646cebe0730933554ebce96a) | [`HARDENING.md`](https://github.com/chainguard-actions/seemethere-upload-artifact-s3/blob/v5/HARDENING.md) |
 
 ## Privacy
 
